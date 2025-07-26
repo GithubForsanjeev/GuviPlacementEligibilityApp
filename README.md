@@ -62,6 +62,7 @@ Generate four interlinked tables using **Faker**:
 ### Step 2: Data Storage
 - Store the data in **SQLite** or **MySQL**.
 - Use **Python classes** for database operations and relationships.
+
 **2_PlacementAppDatabase.ipynb notebook contains the code to create SQLite database and populate the db tables with the sample data generated using above steps.**
 
 ### Step 3: Streamlit Application
