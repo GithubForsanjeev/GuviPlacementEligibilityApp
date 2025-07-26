@@ -57,14 +57,19 @@ Generate four interlinked tables using **Faker**:
 3. **Soft Skills Table**: Scores for communication, teamwork, presentation, leadership, etc.
 4. **Placements Table**: Placement status, internship count, interview rounds, company, package, date.
 
+**1_FakeDataGenerator.ipynb notebook contains the code to generate and create the sample data for the app for the respective tables.**
+
 ### Step 2: Data Storage
 - Store the data in **SQLite** or **MySQL**.
 - Use **Python classes** for database operations and relationships.
+**2_PlacementAppDatabase.ipynb notebook contains the code to create SQLite database and populate the db tables with the sample data generated using above steps.**
 
 ### Step 3: Streamlit Application
 - Accept dynamic input criteria from users (e.g., `problems_solved > 50`, `communication > 75`)
 - Show a filtered list of **eligible students**.
 - Add download option for filtered results.
+
+**2_PlacementAppDatabase.ipynb contains the last cell to run the streamlit app**
 
 ### Step 4: SQL Queries & Insights
 Write and display **10 insightful queries**, such as:
