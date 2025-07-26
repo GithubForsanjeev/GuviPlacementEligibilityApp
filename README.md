@@ -184,8 +184,8 @@ LIMIT 5;
 
 ## 👨‍💻 Author(s)
 
-**Your Name Here**  
-[GitHub Profile](https://github.com/your-profile)  
+**Sanjeev Kumar**  
+[GitHub Profile](https://github.com/GithubForsanjeev)  
 
 ---
 
