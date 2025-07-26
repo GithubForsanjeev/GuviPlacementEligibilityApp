@@ -42,9 +42,9 @@ Design and implement a Streamlit application where users can input **eligibility
 
 - **Frontend**: Streamlit
 - **Backend**: Python (OOP principles)
-- **Database**: SQLite / MySQL
-- **Libraries**: Faker, Pandas, SQLAlchemy, Streamlit
-- **Other Tools**: Git, VSCode, Jupyter
+- **Database**: SQLite
+- **Libraries**: Faker, Pandas, Streamlit, NumPy
+- **Other Tools**: Git, Jupyter
 
 ---
 
@@ -68,10 +68,16 @@ Generate four interlinked tables using **Faker**:
 
 ### Step 4: SQL Queries & Insights
 Write and display **10 insightful queries**, such as:
-- Average programming performance by batch
-- Top 5 placement-ready students
-- Soft skills score distribution
-- Certification vs mock interview correlation
+1. Students with High Problem Solving Skills (>100 problems solved)
+2. Top 10 Students by Placement Package
+3. Average Soft Skill Score by Batch
+4. Students Without Any Certifications
+5. Count of Students per Programming Language
+6. Students with Strong Presentation Skills (>80)
+7. Internship to Placement Conversion Ratio
+8. Students with All-Rounder Skills (High in Programming, Soft Skills, and Mock Interview)
+9. Students Without Placement Offers
+10. Top 5 Batches by Average Mock Interview Score
 
 ---
 
@@ -141,9 +147,6 @@ WHERE pl.placement_status = 'Ready'
 ORDER BY pl.mock_interview_score DESC
 LIMIT 5;
 ```
-
-(Include 10 such queries in a separate SQL file.)
-
 ---
 
 ## ✅ Project Results
