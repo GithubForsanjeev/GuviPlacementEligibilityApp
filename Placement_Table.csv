@@ -1,0 +1,501 @@
+placement_id,student_id,mock_interview_score,internships_completed,placement_status,company_name,placement_package,interview_rounds_cleared,placement_date
+3438,1,57,1,Not Ready,,0,0,
+3040,2,63,1,Ready,,0,0,
+3804,3,55,2,Not Ready,,0,0,
+3608,4,76,2,Ready,,0,0,
+3156,5,55,2,Not Ready,,0,0,
+3860,6,51,1,Not Ready,,0,0,
+3356,7,45,2,Not Ready,,0,0,
+3795,8,56,3,Not Ready,,0,0,
+3207,9,55,3,Not Ready,,0,0,
+3766,10,93,3,Ready,"Chad, Butala and Pathak",247434,7,2025-07-06
+3582,11,79,1,Ready,Bhardwaj-Vyas,160596,6,2025-07-24
+3275,12,88,2,Ready,,0,0,
+3563,13,81,3,Ready,"Nagar, Rajan and Dara",292481,5,2025-07-25
+3506,14,47,3,Not Ready,,0,0,
+3196,15,60,2,Ready,,0,0,
+3061,16,93,2,Ready,Palan and Sons,145690,7,2025-07-19
+3450,17,94,2,Ready,,0,0,
+3103,18,65,2,Ready,"Doctor, Hora and Shroff",271155,3,2025-07-09
+3062,19,88,2,Ready,Lala and Sons,278995,4,2025-07-13
+3958,20,87,3,Ready,,0,0,
+3703,21,57,2,Not Ready,,0,0,
+3724,22,54,1,Not Ready,,0,0,
+3257,23,78,2,Ready,"Bir, Wason and Bhandari",274950,4,2025-07-05
+3983,24,76,3,Ready,,0,0,
+3820,25,53,1,Not Ready,,0,0,
+3146,26,44,2,Not Ready,,0,0,
+3508,27,63,1,Ready,"Seth, Nagar and Kibe",204692,4,2025-07-16
+3310,28,95,3,Ready,Rau-Mani,131833,4,2025-07-03
+3052,29,93,2,Ready,Khatri-Sridhar,93750,4,2025-07-04
+3270,30,63,3,Ready,,0,0,
+3246,31,90,1,Ready,Sathe-Goel,209680,7,2025-07-02
+3878,32,86,3,Ready,,0,0,
+3721,33,68,2,Ready,Mutti Group,245826,3,2025-07-18
+3184,34,91,2,Ready,,0,0,
+3594,35,73,3,Ready,"Kant, Tella and Narayan",121900,7,2025-07-25
+3399,36,93,3,Ready,Khurana-Chana,145638,6,2025-07-22
+3198,37,79,2,Ready,Char Inc,213768,3,2025-07-14
+3571,38,88,1,Ready,Jani-Sridhar,59025,6,2025-07-16
+3153,39,63,1,Ready,Dass-Tank,200624,3,2025-07-20
+3380,40,66,3,Ready,"Shankar, Dar and Krishnamurthy",267445,3,2025-07-23
+3877,41,95,2,Ready,,0,0,
+3814,42,46,1,Not Ready,,0,0,
+3219,43,93,1,Ready,Sangha-Chhabra,134952,3,2025-07-16
+3288,44,54,1,Not Ready,,0,0,
+3700,45,46,2,Not Ready,,0,0,
+3793,46,69,3,Ready,Swaminathan LLC,58904,3,2025-07-15
+3118,47,53,2,Not Ready,,0,0,
+3979,48,43,3,Not Ready,,0,0,
+3503,49,74,2,Ready,"Prabhu, Sinha and Chana",126850,4,2025-07-19
+3111,50,50,2,Not Ready,,0,0,
+3823,51,91,3,Ready,Seth-Borde,272909,5,2025-07-16
+3643,52,81,3,Ready,Sridhar Ltd,53387,6,2025-07-24
+3300,53,88,3,Ready,"Bala, Kadakia and Hayre",257142,3,2025-07-23
+3776,54,81,3,Ready,"Sastry, Sathe and Brahmbhatt",248967,4,2025-07-20
+3985,55,95,3,Ready,"Raman, Varty and Ganesan",160479,3,2025-07-10
+3174,56,61,2,Ready,"Kari, Bali and Hans",228475,3,2025-07-03
+3586,57,49,3,Not Ready,,0,0,
+3829,58,88,1,Ready,,0,0,
+3330,59,86,1,Ready,Samra-Basu,148434,7,2025-07-22
+3694,60,94,2,Ready,Bal Ltd,63135,6,2025-07-05
+3210,61,54,1,Not Ready,,0,0,
+3154,62,79,1,Ready,Mukhopadhyay-Ghose,286906,5,2025-07-14
+3719,63,49,1,Not Ready,,0,0,
+3003,64,89,1,Ready,Suri PLC,132741,3,2025-07-11
+3696,65,81,1,Ready,Basu-Sankar,258740,7,2025-07-12
+3812,66,98,1,Ready,Puri LLC,204607,7,2025-07-08
+3726,67,65,2,Ready,"Agate, Kamdar and Bhatia",68637,7,2025-07-22
+3905,68,44,3,Not Ready,,0,0,
+3251,69,62,2,Ready,Bahri PLC,295239,4,2025-07-20
+3295,70,77,3,Ready,Bhatti Ltd,106183,4,2025-07-03
+3500,71,75,3,Ready,Tandon Ltd,279630,7,2025-07-06
+3441,72,84,2,Ready,"Kulkarni, Mannan and Dubey",88073,3,2025-07-08
+3763,73,78,1,Ready,,0,0,
+3327,74,45,1,Not Ready,,0,0,
+3334,75,57,2,Not Ready,,0,0,
+3898,76,80,1,Ready,,0,0,
+3647,77,92,3,Ready,Modi-Iyer,140305,6,2025-07-20
+3255,78,95,1,Ready,Kala-Pingle,114818,5,2025-07-22
+3213,79,57,1,Not Ready,,0,0,
+3845,80,48,1,Not Ready,,0,0,
+3263,81,85,1,Ready,,0,0,
+3248,82,95,1,Ready,,0,0,
+3707,83,89,2,Ready,,0,0,
+3151,84,59,1,Not Ready,,0,0,
+3464,85,84,1,Ready,Anne-Mistry,296872,5,2025-07-14
+3232,86,94,1,Ready,Nori-Chandran,245496,6,2025-07-02
+3888,87,71,2,Ready,"Dixit, Roy and Srivastava",98674,6,2025-07-14
+3012,88,43,2,Not Ready,,0,0,
+3195,89,83,1,Ready,"Jha, Kaul and Doshi",135808,7,2025-07-24
+3866,90,60,3,Ready,Shetty-Divan,102171,5,2025-07-03
+3475,91,63,3,Ready,"Sachdev, Palan and Subramanian",218393,5,2025-07-06
+3215,92,81,1,Ready,,0,0,
+3158,93,89,1,Ready,,0,0,
+3509,94,63,3,Ready,Hans-Madan,294131,4,2025-07-26
+3214,95,62,2,Ready,Madan-Chauhan,259251,7,2025-07-18
+3864,96,85,1,Ready,"Lal, Sani and Mand",159470,6,2025-07-04
+3992,97,51,1,Not Ready,,0,0,
+3082,98,56,2,Not Ready,,0,0,
+3714,99,90,1,Ready,"Sarin, Raval and Subramaniam",193958,5,2025-07-24
+3901,100,66,2,Ready,Parmar-Muni,97406,6,2025-07-02
+3764,101,83,1,Ready,Bansal LLC,54039,3,2025-07-09
+3175,102,69,2,Ready,Dua LLC,204211,4,2025-07-06
+3164,103,82,3,Ready,Dhingra Group,139696,3,2025-07-08
+3211,104,52,2,Not Ready,,0,0,
+3392,105,54,1,Not Ready,,0,0,
+3318,106,88,2,Ready,Uppal-Brahmbhatt,113769,3,2025-07-01
+3469,107,52,2,Not Ready,,0,0,
+3913,108,97,1,Ready,,0,0,
+3152,109,97,3,Ready,"Goel, Ganesan and Choudhry",150197,6,2025-07-19
+3655,110,79,1,Ready,Virk and Sons,109780,5,2025-07-11
+3709,111,40,3,Not Ready,,0,0,
+3908,112,56,3,Not Ready,,0,0,
+3445,113,56,1,Not Ready,,0,0,
+3308,114,90,3,Ready,Goel-Rege,185633,7,2025-07-16
+3671,115,62,3,Ready,,0,0,
+3832,116,78,3,Ready,Chaudry-Trivedi,85641,6,2025-07-23
+3157,117,67,3,Ready,Dugal-Handa,81174,3,2025-07-07
+3686,118,82,2,Ready,Goyal LLC,259151,4,2025-07-12
+3208,119,79,3,Ready,,0,0,
+3119,120,96,1,Ready,"Srinivas, Vasa and Bhargava",283808,4,2025-07-15
+3321,121,79,2,Ready,Mann PLC,127250,5,2025-07-19
+3728,122,73,3,Ready,Pandey and Sons,133288,6,2025-07-02
+3895,123,45,1,Not Ready,,0,0,
+3837,124,68,2,Ready,,0,0,
+3789,125,92,1,Ready,"Barad, Pingle and Dube",219594,3,2025-07-13
+3089,126,87,3,Ready,"Kumar, Mutti and Narang",188554,7,2025-07-05
+3966,127,41,2,Not Ready,,0,0,
+3204,128,87,2,Ready,"Saran, Basak and Bali",114165,6,2025-07-03
+3112,129,76,3,Ready,"Rege, Thakkar and Shan",134118,3,2025-07-11
+3735,130,43,1,Not Ready,,0,0,
+3585,131,56,2,Not Ready,,0,0,
+3499,132,98,3,Ready,Setty-Suresh,261275,6,2025-07-15
+3825,133,44,3,Not Ready,,0,0,
+3934,134,98,2,Ready,Rajan-Kumer,189534,7,2025-07-24
+3601,135,40,1,Not Ready,,0,0,
+3650,136,78,1,Ready,,0,0,
+3467,137,41,2,Not Ready,,0,0,
+3783,138,90,1,Ready,,0,0,
+3374,139,52,2,Not Ready,,0,0,
+3150,140,86,2,Ready,Chad PLC,146282,6,2025-07-10
+3708,141,82,2,Ready,Dasgupta Group,276602,4,2025-07-24
+3100,142,73,2,Ready,Gola Inc,121373,7,2025-07-21
+3770,143,63,2,Ready,Kothari PLC,229935,4,2025-07-22
+3991,144,67,3,Ready,"Mane, Dhar and Butala",70336,4,2025-07-14
+3572,145,52,1,Not Ready,,0,0,
+3892,146,66,3,Ready,"Vora, Issac and Amble",179869,3,2025-07-18
+3291,147,52,3,Not Ready,,0,0,
+3479,148,50,2,Not Ready,,0,0,
+3201,149,86,1,Ready,Mitra and Sons,107877,4,2025-07-12
+3272,150,73,2,Ready,Magar-Som,284878,3,2025-07-05
+3599,151,87,1,Ready,Deshpande-Mann,261681,6,2025-07-07
+3614,152,52,2,Not Ready,,0,0,
+3013,153,72,1,Ready,Rout LLC,100970,5,2025-07-22
+3285,154,74,1,Ready,Wable Group,286673,5,2025-07-22
+3567,155,97,3,Ready,Randhawa PLC,122937,4,2025-07-24
+3474,156,59,3,Not Ready,,0,0,
+3986,157,76,3,Ready,,0,0,
+3259,158,40,1,Not Ready,,0,0,
+3863,159,94,2,Ready,Virk Inc,86653,6,2025-07-19
+3091,160,88,1,Ready,"Ghosh, Jani and Dugar",65690,5,2025-07-21
+3038,161,74,2,Ready,,0,0,
+3425,162,56,2,Not Ready,,0,0,
+3616,163,96,1,Ready,"Dutta, Bhardwaj and Goda",158016,5,2025-07-11
+3177,164,60,2,Ready,,0,0,
+3528,165,48,1,Not Ready,,0,0,
+3948,166,99,3,Ready,Garg-Edwin,233756,5,2025-07-01
+3303,167,69,3,Ready,,0,0,
+3378,168,64,2,Ready,,0,0,
+3833,169,48,1,Not Ready,,0,0,
+3181,170,53,1,Not Ready,,0,0,
+3067,171,63,1,Ready,Shankar-Doctor,177506,3,2025-07-15
+3894,172,90,3,Ready,"Mandal, Sawhney and Banerjee",123792,6,2025-07-24
+3936,173,42,1,Not Ready,,0,0,
+3483,174,98,1,Ready,,0,0,
+3660,175,96,3,Ready,"Dara, Halder and Deo",176158,4,2025-07-22
+3527,176,71,1,Ready,"Naik, Nagy and Kunda",215711,3,2025-07-15
+3142,177,70,1,Ready,Prakash-Pillay,66545,6,2025-07-07
+3723,178,95,1,Ready,,0,0,
+3256,179,71,3,Ready,,0,0,
+3262,180,48,1,Not Ready,,0,0,
+3749,181,84,2,Ready,Palla and Sons,62700,4,2025-07-01
+3753,182,79,1,Ready,"Vaidya, Viswanathan and Mistry",158042,7,2025-07-09
+3081,183,75,2,Ready,Mall-Nori,138982,4,2025-07-09
+3570,184,100,3,Ready,,0,0,
+3077,185,93,2,Ready,,0,0,
+3468,186,96,3,Ready,Anne-Shroff,69584,4,2025-07-14
+3009,187,50,3,Not Ready,,0,0,
+3625,188,95,3,Ready,Kadakia and Sons,146144,7,2025-07-08
+3451,189,46,3,Not Ready,,0,0,
+3883,190,93,1,Ready,Ghose-Rana,221020,7,2025-07-26
+3031,191,68,1,Ready,"Gera, Bhargava and Dubey",271209,3,2025-07-10
+3858,192,94,3,Ready,,0,0,
+3511,193,87,3,Ready,Ramanathan-Bhatt,230169,6,2025-07-24
+3758,194,42,1,Not Ready,,0,0,
+3433,195,80,1,Ready,,0,0,
+3172,196,70,1,Ready,"Kala, Walia and Rai",292603,7,2025-07-20
+3247,197,74,2,Ready,Narang Ltd,102263,7,2025-07-01
+3110,198,86,2,Ready,Ramaswamy-Bajwa,234611,6,2025-07-15
+3580,199,87,1,Ready,,0,0,
+3386,200,70,1,Ready,Nadkarni-Wason,206277,7,2025-07-03
+3628,201,50,1,Not Ready,,0,0,
+3258,202,93,3,Ready,,0,0,
+3442,203,63,1,Ready,,0,0,
+3109,204,60,3,Ready,Kapadia Ltd,163813,5,2025-07-24
+3032,205,84,2,Ready,,0,0,
+3489,206,50,2,Not Ready,,0,0,
+3880,207,98,2,Ready,Tella-Brahmbhatt,137467,7,2025-07-21
+3896,208,61,3,Ready,"Narayanan, Bora and Sachar",245013,3,2025-07-01
+3311,209,94,2,Ready,,0,0,
+3611,210,74,1,Ready,,0,0,
+3752,211,61,1,Ready,Kumar and Sons,62330,3,2025-07-25
+3375,212,70,2,Ready,Bora Inc,227923,4,2025-07-14
+3086,213,44,3,Not Ready,,0,0,
+3729,214,42,3,Not Ready,,0,0,
+3767,215,65,3,Ready,Varkey Inc,229902,5,2025-07-26
+3642,216,99,1,Ready,Brahmbhatt Inc,294334,5,2025-07-24
+3765,217,81,3,Ready,"Goswami, Rajagopalan and Sawhney",176609,3,2025-07-05
+3430,218,92,2,Ready,Ray-Bhagat,112003,6,2025-07-15
+3058,219,66,1,Ready,Sawhney and Sons,298243,6,2025-07-18
+3325,220,98,2,Ready,,0,0,
+3555,221,58,3,Not Ready,,0,0,
+3480,222,76,2,Ready,,0,0,
+3652,223,57,1,Not Ready,,0,0,
+3145,224,67,2,Ready,,0,0,
+3885,225,77,3,Ready,"Narayanan, Chawla and Bose",290001,5,2025-07-26
+3185,226,58,1,Not Ready,,0,0,
+3286,227,63,1,Ready,Patla-Memon,245456,4,2025-07-18
+3041,228,100,1,Ready,Narayan-Raman,251221,5,2025-07-24
+3028,229,88,3,Ready,"Gala, Bawa and Kashyap",241440,5,2025-07-19
+3364,230,52,1,Not Ready,,0,0,
+3230,231,43,1,Not Ready,,0,0,
+3383,232,41,3,Not Ready,,0,0,
+3745,233,84,3,Ready,"Khanna, Iyengar and Kant",81952,7,2025-07-19
+3231,234,56,2,Not Ready,,0,0,
+3990,235,87,1,Ready,,0,0,
+3365,236,88,1,Ready,Dua Inc,181772,7,2025-07-23
+3730,237,71,1,Ready,"Tata, Hans and Mahal",153055,7,2025-07-10
+3822,238,72,3,Ready,Ben LLC,165342,5,2025-07-10
+3799,239,40,2,Not Ready,,0,0,
+3159,240,98,2,Ready,"Brahmbhatt, Bala and Bhatnagar",167866,4,2025-07-13
+3427,241,94,3,Ready,,0,0,
+3597,242,46,3,Not Ready,,0,0,
+3667,243,76,2,Ready,Datta Group,211766,6,2025-07-11
+3565,244,58,1,Not Ready,,0,0,
+3558,245,62,2,Ready,"Dhar, Nagar and Bhatt",98052,6,2025-07-06
+3029,246,78,3,Ready,,0,0,
+3398,247,74,1,Ready,"Deshmukh, Chana and Peri",98762,7,2025-07-08
+3287,248,100,1,Ready,Sahni and Sons,235020,6,2025-07-01
+3589,249,61,2,Ready,,0,0,
+3977,250,44,2,Not Ready,,0,0,
+3069,251,96,3,Ready,"Lanka, Acharya and Varghese",57420,5,2025-07-24
+3774,252,40,2,Not Ready,,0,0,
+3043,253,52,2,Not Ready,,0,0,
+3305,254,90,3,Ready,"Devan, Sidhu and Kara",112480,7,2025-07-05
+3813,255,83,3,Ready,"Bhatia, Bhatnagar and Badal",163312,6,2025-07-12
+3788,256,68,3,Ready,Dey-Dhar,168821,5,2025-07-19
+3801,257,75,2,Ready,Ramaswamy-Oommen,225199,5,2025-07-12
+3903,258,74,2,Ready,"Keer, Kumer and Nagarajan",94033,7,2025-07-21
+3407,259,93,1,Ready,"Das, Mandal and Sen",141606,3,2025-07-01
+3395,260,90,2,Ready,Borah LLC,288238,7,2025-07-20
+3588,261,59,1,Not Ready,,0,0,
+3516,262,73,3,Ready,,0,0,
+3836,263,82,1,Ready,"Bhat, Manne and Oak",75181,5,2025-07-11
+3862,264,82,2,Ready,Kade-Savant,220087,3,2025-07-10
+3435,265,74,2,Ready,Ramesh-Mahajan,179269,6,2025-07-13
+3278,266,96,1,Ready,Sanghvi-Khanna,259365,6,2025-07-17
+3778,267,48,2,Not Ready,,0,0,
+3243,268,88,3,Ready,"Patla, Acharya and Mann",90907,4,2025-07-07
+3186,269,70,2,Ready,,0,0,
+3881,270,59,3,Not Ready,,0,0,
+3267,271,69,1,Ready,Mitra-Jain,151806,4,2025-07-15
+3682,272,93,1,Ready,"Keer, Nadkarni and Ramachandran",64881,6,2025-07-12
+3553,273,90,2,Ready,"Bera, Hari and Saraf",94666,3,2025-07-20
+3114,274,74,3,Ready,,0,0,
+3001,275,58,3,Not Ready,,0,0,
+3629,276,75,1,Ready,Shan-Dave,178768,4,2025-07-02
+3346,277,44,3,Not Ready,,0,0,
+3437,278,45,1,Not Ready,,0,0,
+3354,279,48,1,Not Ready,,0,0,
+3369,280,46,3,Not Ready,,0,0,
+3873,281,86,2,Ready,,0,0,
+3871,282,81,1,Ready,Bhardwaj Ltd,236531,4,2025-07-12
+3194,283,53,2,Not Ready,,0,0,
+3856,284,64,2,Ready,Babu-Magar,226643,7,2025-07-05
+3014,285,77,1,Ready,"Baria, Atwal and Bath",57547,3,2025-07-26
+3925,286,98,1,Ready,Vora PLC,170206,6,2025-07-11
+3677,287,79,2,Ready,Talwar-Rastogi,207480,4,2025-07-23
+3076,288,93,2,Ready,"Solanki, Baral and Thakur",271127,7,2025-07-04
+3140,289,49,1,Not Ready,,0,0,
+3744,290,74,3,Ready,Goyal-Subramaniam,204444,4,2025-07-10
+3099,291,74,2,Ready,Kashyap-Shetty,120292,4,2025-07-05
+3193,292,97,1,Ready,,0,0,
+3666,293,66,2,Ready,Sha LLC,89732,6,2025-07-05
+3944,294,58,1,Not Ready,,0,0,
+3622,295,93,3,Ready,,0,0,
+3704,296,82,2,Ready,Pillay PLC,292166,6,2025-07-14
+3298,297,88,3,Ready,Mangal-Randhawa,157596,7,2025-07-22
+3755,298,97,3,Ready,"Sankaran, Vyas and Koshy",54716,6,2025-07-19
+3351,299,69,1,Ready,,0,0,
+3517,300,43,2,Not Ready,,0,0,
+3413,301,56,3,Not Ready,,0,0,
+3560,302,68,3,Ready,"Rao, Radhakrishnan and Sarin",296912,4,2025-07-01
+3716,303,54,1,Not Ready,,0,0,
+3834,304,53,3,Not Ready,,0,0,
+3149,305,49,2,Not Ready,,0,0,
+3340,306,41,3,Not Ready,,0,0,
+3535,307,45,3,Not Ready,,0,0,
+3171,308,83,1,Ready,"Chopra, Kala and Grover",162996,4,2025-07-04
+3391,309,49,3,Not Ready,,0,0,
+3664,310,78,2,Ready,Ramakrishnan-Talwar,105242,6,2025-07-02
+3685,311,95,2,Ready,,0,0,
+3220,312,85,2,Ready,,0,0,
+3414,313,45,3,Not Ready,,0,0,
+3540,314,69,3,Ready,"Singhal, Patla and Mangat",272110,5,2025-07-19
+3343,315,45,2,Not Ready,,0,0,
+3569,316,63,3,Ready,,0,0,
+3039,317,66,2,Ready,Sibal-Ramesh,158518,7,2025-07-25
+3924,318,48,3,Not Ready,,0,0,
+3200,319,95,2,Ready,,0,0,
+3005,320,40,2,Not Ready,,0,0,
+3879,321,45,1,Not Ready,,0,0,
+3085,322,74,3,Ready,Bava PLC,272945,3,2025-07-02
+3838,323,54,1,Not Ready,,0,0,
+3673,324,86,2,Ready,,0,0,
+3874,325,81,3,Ready,,0,0,
+3338,326,52,2,Not Ready,,0,0,
+3260,327,91,1,Ready,"Manne, Ghosh and Shetty",229955,6,2025-07-24
+3720,328,62,2,Ready,,0,0,
+3627,329,54,2,Not Ready,,0,0,
+3068,330,61,3,Ready,"Tripathi, Dixit and Parsa",91560,7,2025-07-17
+3368,331,90,2,Ready,"Raval, Sankaran and Radhakrishnan",96178,7,2025-07-10
+3382,332,74,3,Ready,Shankar and Sons,118990,6,2025-07-20
+3891,333,89,2,Ready,"Pal, Dasgupta and Sethi",170301,5,2025-07-08
+3120,334,66,3,Ready,Khurana-Pandey,149998,4,2025-07-23
+3290,335,53,1,Not Ready,,0,0,
+3457,336,100,2,Ready,Dash-Srivastava,226165,5,2025-07-16
+3461,337,41,1,Not Ready,,0,0,
+3021,338,91,2,Ready,"Chanda, Krishnan and Shan",256797,4,2025-07-09
+3875,339,86,2,Ready,Salvi Group,249920,3,2025-07-24
+3011,340,67,3,Ready,,0,0,
+3261,341,54,3,Not Ready,,0,0,
+3670,342,70,3,Ready,Chopra Group,158722,4,2025-07-01
+3439,343,76,2,Ready,"Boase, Kanda and Gole",267853,6,2025-07-26
+3791,344,100,2,Ready,"Rout, Baria and Dua",105068,5,2025-07-07
+3794,345,41,2,Not Ready,,0,0,
+3982,346,55,3,Not Ready,,0,0,
+3335,347,45,2,Not Ready,,0,0,
+3634,348,66,1,Ready,Comar PLC,165363,5,2025-07-03
+3101,349,92,3,Ready,"Goyal, Kala and Sanghvi",60780,5,2025-07-19
+3915,350,43,3,Not Ready,,0,0,
+3882,351,69,1,Ready,Vaidya Group,123047,7,2025-07-19
+3968,352,59,2,Not Ready,,0,0,
+3870,353,96,3,Ready,Dhawan-Raghavan,133238,5,2025-07-05
+3784,354,79,1,Ready,"Acharya, Bhardwaj and Sarkar",294245,4,2025-07-09
+3669,355,56,1,Not Ready,,0,0,
+3800,356,61,3,Ready,"Gola, Bajwa and Wali",218772,7,2025-07-13
+3281,357,62,3,Ready,"Wadhwa, Das and Chad",163377,6,2025-07-08
+3978,358,88,1,Ready,,0,0,
+3189,359,50,1,Not Ready,,0,0,
+3557,360,75,1,Ready,"Sunder, Kothari and Sahni",163242,4,2025-07-24
+3090,361,52,1,Not Ready,,0,0,
+3725,362,93,3,Ready,"Kale, Buch and Acharya",284508,7,2025-07-26
+3584,363,62,2,Ready,Merchant and Sons,207009,4,2025-07-11
+3711,364,52,3,Not Ready,,0,0,
+3773,365,100,2,Ready,Patla-Vala,222673,5,2025-07-14
+3587,366,93,2,Ready,,0,0,
+3547,367,84,2,Ready,Balan-Aggarwal,116993,4,2025-07-01
+3079,368,46,2,Not Ready,,0,0,
+3254,369,82,1,Ready,Korpal PLC,94609,4,2025-07-16
+3737,370,73,1,Ready,Jayaraman-Narula,82131,4,2025-07-06
+3618,371,44,2,Not Ready,,0,0,
+3176,372,84,2,Ready,"Patel, Rau and Dara",206068,4,2025-07-18
+3060,373,85,3,Ready,Dutt-Minhas,277429,6,2025-07-14
+3592,374,62,1,Ready,"Goda, Contractor and Parekh",224146,6,2025-07-13
+3679,375,87,1,Ready,Venkataraman LLC,140183,6,2025-07-04
+3830,376,45,2,Not Ready,,0,0,
+3739,377,51,3,Not Ready,,0,0,
+3835,378,66,2,Ready,,0,0,
+3759,379,93,2,Ready,,0,0,
+3640,380,55,1,Not Ready,,0,0,
+3130,381,60,3,Ready,Chandra-Shere,244681,5,2025-07-05
+3294,382,40,3,Not Ready,,0,0,
+3357,383,45,2,Not Ready,,0,0,
+3762,384,50,3,Not Ready,,0,0,
+3059,385,87,3,Ready,"Kant, Karan and Rajagopalan",130322,4,2025-07-06
+3167,386,57,2,Not Ready,,0,0,
+3827,387,96,3,Ready,"Hari, Narayanan and Sarna",299897,3,2025-07-12
+3534,388,70,2,Ready,Dalal Ltd,274742,5,2025-07-25
+3999,389,58,1,Not Ready,,0,0,
+3962,390,96,1,Ready,"Dhillon, Solanki and Saraf",210721,5,2025-07-04
+3577,391,60,2,Ready,"Kanda, Vohra and Parikh",292425,4,2025-07-17
+3191,392,81,1,Ready,Kibe Inc,228955,6,2025-07-21
+3481,393,49,3,Not Ready,,0,0,
+3855,394,68,3,Ready,,0,0,
+3636,395,56,3,Not Ready,,0,0,
+3019,396,61,1,Ready,,0,0,
+3235,397,91,2,Ready,,0,0,
+3122,398,72,1,Ready,"Bahri, Gala and Lata",114867,3,2025-07-16
+3953,399,94,3,Ready,"Uppal, Kaul and Varty",100511,4,2025-07-01
+3785,400,82,1,Ready,Yadav-Kothari,141244,4,2025-07-02
+3961,401,43,1,Not Ready,,0,0,
+3688,402,52,2,Not Ready,,0,0,
+3306,403,54,1,Not Ready,,0,0,
+3452,404,57,1,Not Ready,,0,0,
+3865,405,99,3,Ready,Bhat Ltd,125316,6,2025-07-21
+3440,406,49,1,Not Ready,,0,0,
+3956,407,80,1,Ready,Bal PLC,210944,4,2025-07-21
+3615,408,62,1,Ready,Sehgal Inc,105750,5,2025-07-13
+3750,409,90,2,Ready,,0,0,
+3929,410,64,2,Ready,Modi PLC,129277,3,2025-07-17
+3821,411,73,2,Ready,,0,0,
+3363,412,43,1,Not Ready,,0,0,
+3899,413,55,2,Not Ready,,0,0,
+3543,414,74,1,Ready,Pai-Tata,211816,3,2025-07-16
+3522,415,40,2,Not Ready,,0,0,
+3372,416,70,3,Ready,"Mangat, Rai and Luthra",291933,4,2025-07-22
+3408,417,91,3,Ready,Tripathi PLC,293666,6,2025-07-26
+3574,418,84,3,Ready,,0,0,
+3621,419,48,1,Not Ready,,0,0,
+3124,420,43,1,Not Ready,,0,0,
+3761,421,70,2,Ready,"Sehgal, Sampath and Gulati",273940,7,2025-07-22
+3384,422,85,1,Ready,Chhabra-Biswas,272121,6,2025-07-10
+3387,423,68,2,Ready,Datta-Ravel,275083,4,2025-07-08
+3910,424,73,1,Ready,Dada Group,121419,5,2025-07-19
+3561,425,69,2,Ready,"Bhakta, Pandey and Vaidya",64993,5,2025-07-06
+3867,426,53,3,Not Ready,,0,0,
+3868,427,49,1,Not Ready,,0,0,
+3797,428,93,2,Ready,"Goyal, Sarkar and Badal",131393,5,2025-07-18
+3803,429,92,1,Ready,,0,0,
+3680,430,55,2,Not Ready,,0,0,
+3293,431,80,3,Ready,"Rege, Babu and Buch",263124,5,2025-07-07
+3075,432,52,3,Not Ready,,0,0,
+3245,433,78,3,Ready,,0,0,
+3989,434,71,1,Ready,Roy Inc,288377,7,2025-07-21
+3376,435,73,1,Ready,Barad-Basak,223877,6,2025-07-09
+3352,436,83,3,Ready,"Talwar, Murthy and Gera",146793,6,2025-07-06
+3401,437,75,3,Ready,,0,0,
+3828,438,55,1,Not Ready,,0,0,
+3404,439,84,1,Ready,"Sethi, Rama and Ganesan",143369,4,2025-07-13
+3482,440,46,2,Not Ready,,0,0,
+3657,441,63,1,Ready,,0,0,
+3772,442,70,2,Ready,Soman and Sons,226525,7,2025-07-07
+3942,443,62,3,Ready,"Seth, Brar and Wason",130862,4,2025-07-07
+3423,444,63,1,Ready,D’Alia-Bhargava,149093,6,2025-07-01
+3098,445,85,1,Ready,Sidhu Inc,215948,3,2025-07-26
+3135,446,78,3,Ready,"Chhabra, Kanda and Nanda",211207,4,2025-07-15
+3699,447,88,2,Ready,,0,0,
+3595,448,85,2,Ready,Kara-Purohit,235510,6,2025-07-23
+3710,449,88,2,Ready,Suri PLC,269843,6,2025-07-14
+3859,450,89,1,Ready,,0,0,
+3023,451,95,2,Ready,"Pal, Kara and Saxena",253356,4,2025-07-26
+3018,452,83,3,Ready,,0,0,
+3444,453,76,3,Ready,Koshy-Sura,142291,3,2025-07-21
+3202,454,42,1,Not Ready,,0,0,
+3502,455,65,1,Ready,Setty Group,112430,6,2025-07-13
+3678,456,45,3,Not Ready,,0,0,
+3419,457,64,3,Ready,Karpe and Sons,298943,7,2025-07-05
+3954,458,100,1,Ready,Tank-Sahota,231386,3,2025-07-19
+3269,459,79,3,Ready,Kannan PLC,136738,5,2025-07-15
+3668,460,72,2,Ready,,0,0,
+3552,461,55,1,Not Ready,,0,0,
+3108,462,96,3,Ready,Shankar Inc,279687,5,2025-07-04
+3323,463,72,1,Ready,Palla Ltd,153445,7,2025-07-20
+3136,464,46,2,Not Ready,,0,0,
+3462,465,100,2,Ready,"Goel, Chowdhury and Choudhary",227168,5,2025-07-21
+3996,466,56,2,Not Ready,,0,0,
+3717,467,74,2,Ready,"Subramanian, Barad and Batra",294432,3,2025-07-16
+3541,468,56,3,Not Ready,,0,0,
+3117,469,98,3,Ready,,0,0,
+3000,470,43,3,Not Ready,,0,0,
+3047,471,79,1,Ready,Borra-Menon,103908,3,2025-07-06
+3692,472,93,2,Ready,,0,0,
+3064,473,59,2,Not Ready,,0,0,
+3748,474,75,2,Ready,Koshy LLC,206240,7,2025-07-09
+3197,475,49,3,Not Ready,,0,0,
+3326,476,69,1,Ready,"Samra, Chowdhury and Choudhry",192493,6,2025-07-15
+3921,477,75,2,Ready,,0,0,
+3002,478,54,3,Not Ready,,0,0,
+3546,479,45,3,Not Ready,,0,0,
+3738,480,69,1,Ready,,0,0,
+3205,481,49,1,Not Ready,,0,0,
+3937,482,68,1,Ready,"Ramakrishnan, Varghese and Srinivasan",88911,6,2025-07-01
+3420,483,75,3,Ready,,0,0,
+3632,484,48,1,Not Ready,,0,0,
+3436,485,75,3,Ready,"Kota, Dalal and Varkey",195753,4,2025-07-21
+3141,486,62,3,Ready,,0,0,
+3706,487,92,1,Ready,Dhawan-Dhillon,92549,6,2025-07-08
+3084,488,42,3,Not Ready,,0,0,
+3815,489,59,3,Not Ready,,0,0,
+3514,490,72,2,Ready,"Hans, Wali and Grover",223539,5,2025-07-18
+3817,491,96,3,Ready,Shere PLC,274743,6,2025-07-16
+3568,492,88,2,Ready,Chakraborty-Sridhar,121592,6,2025-07-02
+3852,493,48,3,Not Ready,,0,0,
+3846,494,65,2,Ready,Bandi-Chokshi,193593,3,2025-07-21
+3649,495,84,1,Ready,,0,0,
+3663,496,59,3,Not Ready,,0,0,
+3731,497,85,2,Ready,Mangat Ltd,74298,4,2025-07-25
+3339,498,40,1,Not Ready,,0,0,
+3550,499,73,3,Ready,"Kapoor, Khatri and De",288396,7,2025-07-15
+3121,500,43,2,Not Ready,,0,0,
